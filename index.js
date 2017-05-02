@@ -1,10 +1,13 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var name = "Janet"
+var height = "78"
 
 console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height)
+console.log(parseInt(height) + 1);
+console.log("string height plus 1 as a string");
+console.log(height + 1);
+
