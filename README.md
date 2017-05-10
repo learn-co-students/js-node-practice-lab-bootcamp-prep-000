@@ -1,6 +1,6 @@
 # Strings and Numbers Outside of the Browser
 
-In our effort to familiarize ourselves with the Learn IDE, Let's play with strings a numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button on the top of this page. You should then be _whisked_ away to the IDE. 
+In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE. 
 
 Alright! This lab is *very important*. I'm going to teach you how to approach all labs...and really everything in coding. That's a huge statement, but programming is actually fairly simple if you follow this process.
 
@@ -30,11 +30,11 @@ console.log("Height:")
 console.log(height)
 ```
 
-The first two lines first print the String `"Name:"`, then it prints the _value inside `name`_. Earlier in our program we assigned `name` a value of `"Joe"`. So, it prints out `Joe"`. Nice! What if we put `name` in quotes?. Give it a try, then run your program again by typing `nodejs index.js`. You should see it print out the literal `name` instead of `Joe`. You just converted `name` from a variable, into a String! Remove the quotes and everything will work again.
+The first two at first print the String `"Name:"`, then it prints the _value inside `name`_. Earlier in our program, we assigned `name` a value of `"Joe"`. So, it prints out `Joe`. Nice! What if we put `name` in quotes?. Give it a try, then run your program again by typing `nodejs index.js`. You should see it print out the literal `name` instead of `Joe`. You just converted `name` from a variable into a String. Remove the quotes and everything will work again.
 
-Ok, go ahead and change the `name` variable to your name. So you'll modify the first line to something like this `var name = "Janet"`. Re-run your code and you'll see everything get updated. Awesome.
+Ok, go ahead and change the `name` variable to your name. To do this, modify the first line to something like this `var name = "Janet"`. Re-run your code and you'll see everything gets updated. Awesome.
 
-Finally, we are going to modify our height. You could modify the height the same way we modified name. Simply change the `"74"` to whatever your height is. Remember last time though? We wanted to just have you "grow" but adding `1` to our current height. We can try that out by modifying the `console.log(height)` line by writing `console.log(height+1)`. If you re-run that code you'll see it just appends `1` to the end of whatever height you had. That's not what we want! We want proper addition
+Finally, we are going to modify our height. You could modify the height the same way we modified `name`. Simply change the `"74"` to whatever your height is. Remember last time though? We wanted to just have you "grow" but adding `1` to our current height. We can try that out by modifying the `console.log(height)` line by writing `console.log(height+1)`. If you re-run that code you'll see it just appends `1` to the end of whatever height you had. That's not what we want! We want proper addition
 to occur. Just like last time, we need to translate our String (`"74"`) into a number. You can do this in your `console.log` like this: `console.log(parseInt(height) + 1 )`. That converts `"74"` into a number and then adds one. If you re-run the code now you'll see that it works! The other way we can modify this is to change the assignment of the variable in the first place. So let's modify the `var height = "74"` line to look like this
 
 ```javascript
