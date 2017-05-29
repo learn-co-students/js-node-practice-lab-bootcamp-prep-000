@@ -1,6 +1,6 @@
 # Strings and Numbers Outside of the Browser
 
-In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE. 
+In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE.
 
 Alright! This lab is *very important*. I'm going to teach you how to approach all labs...and really everything in coding. That's a huge statement, but programming is actually fairly simple if you follow this process.
 
@@ -17,7 +17,7 @@ Look familiar? Open up the `index.js` file and take a look. No HTML here, but yo
 
 ```javascript
 var name = "Joe"
-var height = "74"
+var height = 70
 ```
 
 These two just assign the value `"Joe"` and `"74"` to `name` and `height`, respectively. `name` and `height` are variables. `"Joe"` and `"74"` are Strings. We know they are Strings because they are wrapped in quotes. The next four lines do all of the outputting to your terminal.
