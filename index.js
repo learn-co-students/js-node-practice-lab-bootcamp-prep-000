@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "GT"
+var name = "GTizzle"
 var height = 74
 
 console.log("Name:")
