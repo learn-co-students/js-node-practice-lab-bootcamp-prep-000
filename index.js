@@ -1,7 +1,7 @@
-// write your code below!
+ // write your code below!
 
-var name = "Joe"
-var height = "74"
+var name = "Caroline"
+var height = 74
 if (name === "Susan") {
   console.log ("The name is correct")
 } {
@@ -13,4 +13,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height)
+console.log(height + 1 )
