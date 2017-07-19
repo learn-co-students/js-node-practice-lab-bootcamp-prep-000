@@ -2,7 +2,7 @@
 
 var name = "Joe"
 var height = "74"
-var ht2 = (parseInt(height)+1)
+var ht2 = (parseInt(height))
 
 //console.log("Joe")
 //console.log(name)
@@ -12,4 +12,4 @@ var ht2 = (parseInt(height)+1)
 
 //ar ht = parseInt(height)+1
 
-console.log("Name: "+name+" height: " +ht2)
+console.log("var height = " +ht2)
