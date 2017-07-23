@@ -1,10 +1,6 @@
-// write your code below!
+var name = "Michael"
+var height = 61
 
-var name = "Joe"
-var height = "74"
+console.log("Name: " + name)
 
-console.log("Name:")
-console.log(name)
-
-console.log("Height:")
-console.log(height)
+console.log("Height: " + (height + 1))
