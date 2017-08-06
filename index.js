@@ -2,9 +2,8 @@
 
 var name = "Jason"
 var height = 74
+var message = `${name} is ${height-5} inches tall`
 
-console.log("Name:")
-console.log(name)
+module.exports = {name, height, message}
 
-console.log("Height:")
-console.log(height - 5)
+console.log (message)
