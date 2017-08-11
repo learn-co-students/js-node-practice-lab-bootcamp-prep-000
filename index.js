@@ -7,4 +7,3 @@ console.log("Name:")
 console.log(name)
 
 console.log(height + 1)
-console.log(height)
