@@ -1,10 +1,10 @@
 # Strings and Numbers Outside of the Browser
 
-In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE. 
+In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE.
 
 Alright! This lab is *very important*. I'm going to teach you how to approach all labs...and really everything in coding. That's a huge statement, but programming is actually fairly simple if you follow this process.
 
-First things first, let's run the code we are given. That should always be your first task. Just like when you are using a map to find a new restaurant, you need to know where you are _now_ before you can know where you need to go. To run the code, type `nodejs index.js` in your terminal. You should get something like this:
+First things first, let's run the code we are given. That should always be your first task. Just like when you are using a map to find a new restaurant, you need to know where you are _now_ before you can know where you need to go. To run the code, type `` in your terminal. You should get something like this:
 
 ```
 Name:
