@@ -1,6 +1,6 @@
 # Strings and Numbers Outside of the Browser
 
-In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE. 
+In our effort to familiarize ourselves with the Learn IDE, Let's play with strings and numbers again but in the Learn IDE. First things first though, let's open this lab in the Learn IDE. Go ahead and click the blue "Open" button at the top of this page. You should then be _whisked_ away to the IDE.
 
 Alright! This lab is *very important*. I'm going to teach you how to approach all labs...and really everything in coding. That's a huge statement, but programming is actually fairly simple if you follow this process.
 
@@ -40,6 +40,7 @@ to occur. Just like last time, we need to translate our String (`"74"`) into a n
 ```javascript
 var height = 74
 ```
+
 
 Boom! We took away the quotes and now it's a number not a string. You can remove the `parseInt` part of your `console.log` to look like this: `console.log(height + 1)` and everything should work properly.
 
