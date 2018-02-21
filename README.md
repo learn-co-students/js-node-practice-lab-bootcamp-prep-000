@@ -16,8 +16,8 @@ Height:
 Look familiar? Open up the `index.js` file and take a look. No HTML here, but you can see some basic things. The first two lines of code are below:
 
 ```javascript
-var name = "Joe"
-var height = "74"
+var name = "Ricardo"
+var height = 74
 ```
 
 These two just assign the value `"Joe"` and `"74"` to `name` and `height`, respectively. `name` and `height` are variables. `"Joe"` and `"74"` are Strings. We know they are Strings because they are wrapped in quotes. The next four lines do all of the outputting to your terminal.
@@ -27,7 +27,7 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height)
+console.log(height + 1)
 ```
 
 The first two at first print the String `"Name:"`, then it prints the _value inside `name`_. Earlier in our program, we assigned `name` a value of `"Joe"`. So, it prints out `Joe`. Nice! What if we put `name` in quotes?. Give it a try, then run your program again by typing `nodejs index.js`. You should see it print out the literal `name` instead of `Joe`. You just converted `name` from a variable into a String. Remove the quotes and everything will work again.
