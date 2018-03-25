@@ -8,3 +8,19 @@ console.log(name)
 
 console.log("Height:")
 console.log(height+1)
+
+
+
+function predictOutput() {
+    rl.question('Enter input X for prediction (Press CTRL+C to exit) : ', (answer) => {
+        console.log(`At X = ${answer}, y =  ${regressionModel.predict(parseFloat(answer))}`);
+        predictOutput();
+    });
+}
+
+const readline = require('readline'); // For user prompt to allow predictions
+
+const rl = readline.createInterface({
+    input: process.stdin, 
+    output: process.stdout
+});
