@@ -12,7 +12,7 @@ console.log(height+1)
 
 
 function predictOutput() {
-    rl.question('Enter input X for prediction (Press CTRL+C to exit) : ', (answer) => {
+    rl.question('Input X for prediction : ', (answer) => {
         console.log(`At X = ${answer}, y =  ${regressionModel.predict(parseFloat(answer))}`);
         predictOutput();
     });
