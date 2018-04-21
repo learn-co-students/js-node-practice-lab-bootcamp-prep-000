@@ -24,7 +24,7 @@ These two just assign the value `"Joe"` and `"74"` to `name` and `height`, respe
 
 ```javascript
 console.log("Name:")
-console.log(name)
+console.log('name')
 
 console.log("Height:")
 console.log(height)
