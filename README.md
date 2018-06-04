@@ -29,7 +29,7 @@ console.log(name)
 console.log("Height:")
 console.log(height)
 ```
-
+d
 The first two at first print the String `"Name:"`, then it prints the _value inside `name`_. Earlier in our program, we assigned `name` a value of `"Joe"`. So, it prints out `Joe`. Nice! What if we put `name` in quotes?. Give it a try, then run your program again by typing `nodejs index.js`. You should see it print out the literal `name` instead of `Joe`. You just converted `name` from a variable into a String. Remove the quotes and everything will work again.
 
 Ok, go ahead and change the `name` variable to your name. To do this, modify the first line to something like this `var name = "Janet"`. Re-run your code and you'll see everything gets updated. Awesome.
