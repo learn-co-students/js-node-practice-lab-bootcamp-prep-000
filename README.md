@@ -6,6 +6,7 @@ Alright! This lab is *very important*. I'm going to teach you how to approach al
 
 First things first, let's run the code we are given. That should always be your first task. Just like when you are using a map to find a new restaurant, you need to know where you are _now_ before you can know where you need to go. To run the code, type `nodejs index.js` in your terminal. You should get something like this:
 
+
 ```
 Name:
 Joe
