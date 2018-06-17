@@ -3,8 +3,8 @@
 var name = 'baby hxze';
 var height = "66"
 
-console.log("Name:")
-console.log(name)
+console.log(baby hxze:")
+console.log(baby hxze)
 
-console.log("Height:")
-console.log(height+1)
+console.log("66:")
+console.log(66+1)
