@@ -13,7 +13,7 @@ Height:
 74
 ```
 
-Look familiar? Open up the `index.js` file and take a look. No HTML here, but you can see some basic things. The first two lines of code are below:
+Look familiar? Open up the `index.js` file and take a look. No HTML here, but you can see some basic things. The first two lnodines of code are below:
 
 ```javascript
 var name = "Joe"
