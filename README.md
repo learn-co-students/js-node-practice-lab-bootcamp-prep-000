@@ -43,7 +43,9 @@ console.log(height);
 
 The first two at first print the String `"Name:"`, then it prints the _value
 inside `name`_. Earlier in our program, we assigned `name` a value of `"Joe"`.
-So, it prints out `Joe`. Nice! What if we put `name` in quotes?. Give it a try,
+So, it prints out `Joe`. Nice! What if we put `name` in quotes?.
+
+Give it a try,
 then run your program again by typing `node index.js`. You should see it print
 out the literal `name` instead of `Joe`. You just converted `name` from a
 variable into a String. Remove the quotes and everything will work again.
