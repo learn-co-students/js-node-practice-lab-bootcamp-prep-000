@@ -1,10 +1,12 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+// Please include terminating semicolons on each line
 
-console.log("Name:")
-console.log(name)
+var name = "Allen";
+var height = 72;
 
-console.log("Height:")
-console.log(height)
+console.log("Name:");
+console.log(name);
+
+console.log("Height:");
+console.log(height+1);
