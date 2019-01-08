@@ -1,10 +1,10 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var lap = "black"
+var count = "7"
 
-console.log("Name:")
-console.log(name)
+console.log("lap:")
+console.log(lap)
 
-console.log("Height:")
-console.log(height)
+console.log("amount:")
+console.log(amount)
