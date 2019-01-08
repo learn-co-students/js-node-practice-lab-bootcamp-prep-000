@@ -1,4 +1,4 @@
-# Contributing to Learn.co Curriculum
+node# Contributing to Learn.co Curriculum
 
 We're really excited that you're about to contribute to the [open
 curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co).
