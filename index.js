@@ -1,10 +1,11 @@
 // write your code below!
+// Variable Assignments
+var name = "Mark"
+var height = 65 // Make sure this is not a String since we will be adding 1 to it in the console log
 
-var name = "Joe"
-var height = "74"
-
+// Console Logs
 console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(height)
+console.log(height+1)
