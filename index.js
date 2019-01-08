@@ -1,10 +1,16 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var name = "Nafisa";
+var height = "6'3";
+var weight = "125";
 
-console.log("Name:")
-console.log(name)
+console.log("Lady's Name:");
+console.log(name);
 
-console.log("Height:")
-console.log(height)
+console.log("Nafisa's Height:");
+console.log(height + 1)
+
+console.log ("Weight of Nafisa");
+console.log (weight);
+
+
