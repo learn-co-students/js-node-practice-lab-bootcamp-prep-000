@@ -1,3 +1,4 @@
+
 # Strings and Numbers Outside of the Browser
 
 In our effort to familiarize ourselves with the Learn IDE, Let's play with
