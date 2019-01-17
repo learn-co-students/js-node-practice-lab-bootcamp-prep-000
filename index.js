@@ -1,10 +1,7 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var n = "Joe";
+var height = "74";
 
-console.log("Name:")
-console.log(name)
+console.log('Name: ' + n + '\nHeight: ' + (parseInt(height)+3));
 
-console.log("Height:")
-console.log(height)
