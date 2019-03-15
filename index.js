@@ -3,8 +3,8 @@
 var name = "Joe"
 var height = "74"
 
-console.log("Name:")
-console.log(name)
+console.log("Name:"+name)
 
-console.log("Height:")
-console.log(height)
+height = parseInt(height) + 1
+console.log("Height:"+height)
+
