@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Flat Iron School" ;
+var name = "Raja Somalinga" ;
 var height = "78" ;
 
 console.log("Name:");
