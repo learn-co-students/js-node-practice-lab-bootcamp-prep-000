@@ -35,7 +35,7 @@ do all of the outputting to your terminal.
 
 ```javascript
 console.log('Name:');
-console.log(name);
+console.log('name');
 
 console.log('Height:');
 console.log(height);
