@@ -38,7 +38,7 @@ console.log('Name:');
 console.log(name);
 
 console.log('Height:');
-console.log(height);
+console.log(parseInt(height) + 1 );
 ```
 
 The first two at first print the String `"Name:"`, then it prints the _value
