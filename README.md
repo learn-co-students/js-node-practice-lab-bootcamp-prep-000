@@ -24,7 +24,7 @@ Look familiar? Open up the `index.js` file and take a look. No HTML here, but
 you can see some basic things. The first two lines of code are below:
 
 ```javascript
-var name = 'Joe';
+var name = 'Sara';
 var height = '74';
 ```
 
@@ -34,11 +34,11 @@ We know they are Strings because they are wrapped in quotes. The next four lines
 do all of the outputting to your terminal.
 
 ```javascript
-console.log('Name:');
+console.log(Name:);
 console.log(name);
 
 console.log('Height:');
-console.log(height);
+console.log(parseInt(height)+1);
 ```
 
 The first two at first print the String `"Name:"`, then it prints the _value
