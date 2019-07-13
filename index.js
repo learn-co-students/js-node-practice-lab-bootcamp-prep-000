@@ -7,4 +7,4 @@ console.log("fabi:")
 console.log(fabi)
 
 console.log("67:")
-console.log(67)
+console.log(height+1)
