@@ -16,16 +16,16 @@ run the code, type `node index.js` in your terminal. You should get something
 like this:
 
 ```js
-Name: Joe;
-Height: 74;
+Name: Jack;
+Height: 68;
 ```
 
 Look familiar? Open up the `index.js` file and take a look. No HTML here, but
 you can see some basic things. The first two lines of code are below:
 
 ```javascript
-var name = 'Joe';
-var height = '74';
+var name = 'Test';
+var height = 100;
 ```
 
 These two just assign the value `"Joe"` and `"74"` to `name` and `height`,
@@ -38,7 +38,7 @@ console.log('Name:');
 console.log(name);
 
 console.log('Height:');
-console.log(height);
+console.log(height + 1);
 ```
 
 The first two at first print the String `"Name:"`, then it prints the _value
@@ -66,7 +66,7 @@ way we can modify this is to change the assignment of the variable in the first
 place. So let's modify the `var height = "74"` line to look like this
 
 ```javascript
-var height = 74;
+var height = 68;
 ```
 
 Boom! We took away the quotes and now it's a number not a string. You can remove
