@@ -1,10 +1,5 @@
-// write your code below!
+console. log 'joe'
+console. log Joe
 
-var name = "Joe"
-var height = "74"
-
-console.log("Name:")
-console.log(name)
-
-console.log("Height:")
-console.log(height)
+console . log 74;
+console . log (height + 1)
