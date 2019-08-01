@@ -1,10 +1,12 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var name = "Imran"
+var height = 74
 
-console.log("Name:")
-console.log(name)
+// string name then calls variable name
+console.log("Name:", name)
+// console.log(name)
 
-console.log("Height:")
-console.log(height)
+// string name then calls variable name
+console.log("Height:", height + 5)
+// console.log(height)
