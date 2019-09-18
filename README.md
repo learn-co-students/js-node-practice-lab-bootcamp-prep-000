@@ -75,6 +75,6 @@ the `parseInt` part of your `console.log` to look like this:
 
 Now it's time to submit your work back to learn. Go ahead and run `learn submit`
 in the terminal. You should then get a few more green lights and be ready to
-move on to the next lesson. Congratulations
+move on to the next lesson. Congratulations.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-node-practice-lab'>Node Practice</a> on Learn.co and start learning to code for free.</p>
