@@ -39,9 +39,9 @@ do all of the outputting to your terminal.
 console.log('Name:');
 console.log(name);
 
-console.log('Height:');
+console.log('Height:')
 console.log(height);
-```
+
 
 The first two at first print the String `"Name:"`, then it prints the _value
 inside `name`_. Earlier in our program, we assigned `name` a value of `"Joe"`.
