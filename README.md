@@ -17,7 +17,7 @@ lesson. To run the code, type `node js/index.js` in your terminal. You should
 get something like this:
 
 ```js
-Name: Joe;
+Name: Brandon;
 Height: 74;
 ```
 
@@ -26,7 +26,7 @@ look. No HTML here, but you can see some basic things. The first two lines of
 code are below:
 
 ```javascript
-var name = 'Joe';
+var name = "Janet"
 var height = '74';
 ```
 
@@ -39,7 +39,7 @@ do all of the outputting to your terminal.
 console.log('Name:');
 console.log(name);
 
-console.log('Height:');
+console.log(parseInt(Height)+1)
 console.log(height);
 ```
 
